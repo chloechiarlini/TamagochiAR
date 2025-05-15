@@ -1,0 +1,35 @@
+[Libraries]
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Builds/
+/Logs/
+/MemoryCaptures/
+
+/UserSettings/
+/.vscode/
+/.idea/
+/QCAR/
+/Packages/*.tgz
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Vuforia plugin cache
+/Packages/com.ptc.vuforia.engine*
+
+# Dialogue System / Sprite PSDs / large image sources
+*.psd
+*.tga
+*.tiff
+*.bmp
