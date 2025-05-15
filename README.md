@@ -39,10 +39,7 @@ ARCamera
 
 
 💻 Installation
-	1.	Cloner le projet :
-
-git clone https://github.com/tonCompte/tonProjetUnity.git
-
+	1.	Cloner le projet : git clone https://github.com/tonCompte/tonProjetUnity.git
 	2.	Ouvrir sous Unity 6.x avec Vuforia activé.
 	3.	Importer Vuforia Engine si besoin via Package Manager.
 	4.	Remplacer l’image cible dans Vuforia → Image Target par votre image personnalisée.
